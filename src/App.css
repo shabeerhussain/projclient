@@ -1,0 +1,37 @@
+
+
+.menubar {
+height: 10vh;
+background-color: greenyellow;
+text-align: right;
+line-height: 10vh;
+margin-bottom: 5vh;
+}
+.mainImages{
+  height: 20vh;
+
+}
+
+.mainpage{
+  background-image: url('/delivery-food.png');
+  background-size: cover;
+  height: 100vh;
+}
+.loginpage{
+  background-image: url('/food-explosion.png');
+  background-size: cover;
+  height: 100vh;
+}
+
+
+.margintopcenter{
+  margin-top:50vh;
+  color:red;
+  font-weight: bolder;
+}
+
+.form25{
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+}
